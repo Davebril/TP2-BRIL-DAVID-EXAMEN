@@ -1,0 +1,13 @@
+.numeros_contenedor{
+    background-color: rgb(213, 206, 206);
+    width: 80%;
+    margin: auto;
+}
+
+.numeros_btn{
+    background-color: rgb(70, 168, 70);
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    margin: auto;
+}
